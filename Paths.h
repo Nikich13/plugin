@@ -30,4 +30,4 @@ inline std::string ReplaceExt(std::string str,
     return str;
 }
 }
-#endif //SMMO_PROTOSHARP_PATHS_H_
+#endif
